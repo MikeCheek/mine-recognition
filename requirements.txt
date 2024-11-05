@@ -1,0 +1,4 @@
+## install torch from here https://pytorch.org/get-started/locally/
+
+pandas
+scikit-learn
