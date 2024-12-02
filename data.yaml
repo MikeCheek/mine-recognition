@@ -1,0 +1,6 @@
+
+train: c:\Users\miche\Documents\Erasmus\DeVinci\Veille et enjeux\mine-recognition\dataset\images\train
+val: c:\Users\miche\Documents\Erasmus\DeVinci\Veille et enjeux\mine-recognition\dataset\images\val
+
+nc: 1
+names: ['mine']

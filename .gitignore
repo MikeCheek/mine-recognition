@@ -167,3 +167,6 @@ share/
 include/
 
 images/
+dataset/
+results/
+annotated_results/
