@@ -165,3 +165,5 @@ pyvenv.cfg
 Scripts/
 share/
 include/
+
+images/
