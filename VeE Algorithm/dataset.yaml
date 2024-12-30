@@ -1,0 +1,5 @@
+train: C:\Users\alesa\Desktop\Magistrale\ESILV\Veille et enjeux\mine-recognition\VeE Algorithm\dataset\train\images
+val: C:\Users\alesa\Desktop\Magistrale\ESILV\Veille et enjeux\mine-recognition\VeE Algorithm\dataset\val\images
+
+nc: 1
+names: ['mine']
